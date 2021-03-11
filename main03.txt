@@ -2,5 +2,6 @@ main 03: first commit.
 
 branch-with-conflict commit
 
-This number is ONE on branch-with-conflict:    1
+This number is ONE on branch-with-conflict:    2
+
 The number will be set to TWO on main. 
